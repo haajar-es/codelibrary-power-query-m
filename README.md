@@ -14,5 +14,10 @@ Welcome to the Power Query M Language Code Library! This repository contains a c
 
 To use this M Language Code Library, simply clone the repository and navigate to the relevant folder to find the M code you need.
 
+
 ```bash
-git clonehttps://github.com/haajar-es/codelibrary-power-query-m.git
+git clone https://github.com/haajar-es/codelibrary-power-query-m.git
+```
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.

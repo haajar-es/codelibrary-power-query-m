@@ -10,13 +10,16 @@ Welcome to the Power Query M Language Code Library! This repository contains a c
   - [Text Functions](text-functions)
 - [Contributing](#contributing)
 
+## Formatting M Query — Tools Available
+[M Formatter](https://www.powerqueryformatter.com/) free web tool, paste M code and get it formatted (if you need it presentable for documentation or sharing)
+
 ## Getting Started
 
 To use this M Language Code Library, simply clone the repository and navigate to the relevant folder to find the M code you need.
 
 
 ```bash
-git clone https://github.com/haajar-es/codelibrary-power-query-m.git
+git clone https://github.com/haajar-es/codelibrary-powerquery-m.git
 ```
 
 ## License
